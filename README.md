@@ -14,8 +14,7 @@
 
 ### Ways to reach me
 
-[![website](./img/globe-light.svg)](https://exploptimist.eu#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://exploptimist.eu#gh-dark-mode-only)
+[![website](./img/wpexplorer-color.svg)](https://exploptimist.eu)
 &nbsp;&nbsp;
 [![website](./img/linkedin-color.svg)](https://www.linkedin.com/in/reidavid)
 &nbsp;&nbsp;
