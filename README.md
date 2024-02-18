@@ -27,6 +27,7 @@
 [![website](./img/x-color.svg)](https://twitter.com/divadriel)
 
 ### Languages
+
 <img align="left" alt="HTML5" width="26px" src="./img/html5-color.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3-color.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="./img/php-color.svg" style="padding-right:10px;" />
@@ -35,15 +36,18 @@
 <img align="left" alt="MySQL" width="26px" src="./img/mysql-color.svg" style="padding-right:10px;" />
 <img align="left" alt="PL/SQL" width="26px" src="./img/oracle-color.svg" style="padding-right:10px;" />
 
-
+<br><br>
 
 ### Tools
+
 <!-- later on: include links to specific projects / blog categories made with these tools, when applicable -->
 <img align="left" alt="Android Studio" width="26px" src="./img/androidstudio-color.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="phpMyAdmin" width="26px" src="./img/phpmyadmin-color.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./img/github-color.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="./img/gitlab-color.svg" style="padding-right:10px;" />
+
+<br><br>
 
 ---
 
