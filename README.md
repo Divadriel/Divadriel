@@ -27,7 +27,7 @@
 [![website](./img/x-color.svg)](https://twitter.com/divadriel)
 
 ### Languages
-[<img align="left" alt="HTML5" width="26px" src="./img/html5-color.svg" style="padding-right:10px;" />]
+<img align="left" alt="HTML5" width="26px" src="./img/html5-color.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3-color.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="./img/php-color.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript-color.svg" style="padding-right:10px;" />
