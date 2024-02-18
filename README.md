@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)](https://blog.exploptimist.eu)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)](https://www.buymeacoffee.com/exploptimist)
 
-## I'm a Developer, Hiker, Doctoral Student and Player!
+## I'm a Developer, Hiker, Doctoral Student and video game Player!
 
 - :man_student: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
@@ -34,7 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript-color.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="./img/mysql-color.svg" style="padding-right:10px;" />
-<img align="left" alt="PL/SQL" width="26px" src="./img/oracle-color.svg" style="padding-right:10px;" />
+<img align="left" alt="PL/SQL" width="26px" src="https://www.oracle.com/a/ocom/img/pl-sql.svg" style="padding-right:10px;" />
 
 <br>
 
