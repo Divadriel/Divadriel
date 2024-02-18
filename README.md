@@ -71,11 +71,9 @@
 <details>
     <summary>:zap: Stats</summary>
 
-    [![Divadriel's GitHub stats](https://github-readme-stats-david-reis-projects.vercel.app//api?username=Divadriel&show_icons=true&theme=dark)](https://github.com/Divadriel/github-readme-stats)
+    [![Divadriel's GitHub stats](https://github-readme-stats-david-reis-projects.vercel.app/api?username=Divadriel&show_icons=true&theme=dark)](https://github.com/Divadriel/github-readme-stats)
 
 
-
-https://github-readme-stats-david-reis-projects.vercel.app/
 </details>
 
 <!-- LINKS -->
