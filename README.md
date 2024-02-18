@@ -36,7 +36,7 @@
 <img align="left" alt="MySQL" width="26px" src="./img/mysql-color.svg" style="padding-right:10px;" />
 <img align="left" alt="PL/SQL" width="26px" src="./img/oracle-color.svg" style="padding-right:10px;" />
 
-<br><br>
+<br>
 
 ### Tools
 
@@ -47,7 +47,7 @@
 <img align="left" alt="GitHub" width="26px" src="./img/github-color.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="./img/gitlab-color.svg" style="padding-right:10px;" />
 
-<br><br>
+<br>
 
 ---
 
