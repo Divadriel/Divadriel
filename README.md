@@ -9,8 +9,11 @@
 - :man_student: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
-- :goal: Goal for 2024: Complete all my pending projects!
+- :goal_net: Goal for 2024: Complete and publish all my pending projects!
 - :zap: Fun fact: I'm from France :fr:!
+
+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
+
 
 ### Ways to reach me
 
@@ -71,7 +74,9 @@
 <details>
     <summary>:zap: Stats</summary>
 
-`work in progress`
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-david-reis-projects.vercel.app/api?username=Divadriel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+https://github-readme-stats-david-reis-projects.vercel.app/
 </details>
 
 <!-- LINKS -->
