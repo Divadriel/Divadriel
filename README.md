@@ -5,7 +5,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)
 
 ## I'm a Developer, Hiker, Doctoral Student and Player!
-- :office_building: I'm currently working on my [PhD defense][research]
+- :officeg: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
 <!-- goal for 2024 -->
