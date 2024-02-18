@@ -12,9 +12,6 @@
 - :goal_net: Goal for 2024: Complete and publish all my pending projects!
 - :zap: Fun fact: I'm from France :fr:!
 
-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
-
-
 ### Ways to reach me
 
 [![website](./img/wpexplorer-color.svg)](https://exploptimist.eu)
