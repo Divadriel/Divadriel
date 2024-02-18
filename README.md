@@ -1,8 +1,8 @@
 # Hi there, I'm David - aka [The Exploptimist][website] 👋
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fexploptimist.eu%2F&style=for-the-badge&logo=WPExplorer&logoColor=%232563EB&label=exploptimist.eu)
-![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fexploptimist.eu%2F&style=for-the-badge&logo=WPExplorer&logoColor=%232563EB&label=exploptimist.eu)](https://exploptimist.eu/)
+[![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)](https://blog.exploptimist.eu/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)](https://www.buymeacoffee.com/exploptimist)
 
 ## I'm a Developer, Hiker, Doctoral Student and Player!
 - :office_building: I'm currently working on my [PhD defense][research]
