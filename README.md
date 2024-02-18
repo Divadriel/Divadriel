@@ -1,10 +1,11 @@
-# Hi there, I'm David - aka [The Exploptimist][website] 👋
+## Hi there, I'm David - aka [The Exploptimist][website] 👋
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fexploptimist.eu%2F&style=for-the-badge&logo=WPExplorer&logoColor=%232563EB&label=exploptimist.eu)](https://exploptimist.eu/)
-[![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)](https://blog.exploptimist.eu/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fexploptimist.eu%2F&style=for-the-badge&logo=WPExplorer&logoColor=%232563EB&label=exploptimist.eu)](https://exploptimist.eu)
+[![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)](https://blog.exploptimist.eu)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)](https://www.buymeacoffee.com/exploptimist)
 
 ## I'm a Developer, Hiker, Doctoral Student and Player!
+
 - :office: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
@@ -13,9 +14,22 @@
 
 ### Ways to reach me
 
+[![website](./img/globe-light.svg)](https://exploptimist.eu#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://exploptimist.eu#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-color.svg)](https://www.linkedin.com/in/reidavid)
+&nbsp;&nbsp;
+[![website](./img/reddit-color.svg)](https://www.reddit.com/user/Divadriel)
+&nbsp;&nbsp;
+[![website](./img/stackexchange-color.svg)](https://stackexchange.com/users/6089121/v4karian?tab=accounts)
+&nbsp;&nbsp;
+[![website](./img/instagram-color.svg)](https://instagram.com/divadriel)
+&nbsp;&nbsp;
+[![website](./img/x-color.svg)](https://twitter.com/divadriel)
 
-<!-- using shield.io for the images -->
 ### Languages
+
+
 
 ### Tools
 
@@ -26,7 +40,7 @@
 
 
 
-
+<!-- LINKS -->
 [website]: https://exploptimist.eu
 [blog]: https://blog.exploptimist.eu
 [research]: https://research.exploptimist.eu/
