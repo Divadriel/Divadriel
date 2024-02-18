@@ -9,7 +9,7 @@
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
 <!-- goal for 2024 -->
-- :high_voltage: Fun fact: I'm from France!
+- :fr: Fun fact: I'm from France!
 
 ### Ways to reach me
 
