@@ -6,7 +6,7 @@
 
 ## I'm a Developer, Hiker, Doctoral Student and Player!
 
-- :office: I'm currently working on my [PhD defense][research]
+- :man_student: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
 <!-- goal for 2024 -->
@@ -27,11 +27,23 @@
 [![website](./img/x-color.svg)](https://twitter.com/divadriel)
 
 ### Languages
+[<img align="left" alt="HTML5" width="26px" src="./img/html5-color.svg" style="padding-right:10px;" />]
+<img align="left" alt="CSS3" width="26px" src="./img/css3-color.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="./img/php-color.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="./img/javascript-color.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="./img/mysql-color.svg" style="padding-right:10px;" />
+<img align="left" alt="PL/SQL" width="26px" src="./img/oracle-color.svg" style="padding-right:10px;" />
 
 
 
 ### Tools
-
+<!-- later on: include links to specific projects / blog categories made with these tools, when applicable -->
+<img align="left" alt="Android Studio" width="26px" src="./img/androidstudio-color.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="phpMyAdmin" width="26px" src="./img/phpmyadmin-color.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="./img/github-color.svg" style="padding-right:10px;" />
+<img align="left" alt="GitLab" width="26px" src="./img/gitlab-color.svg" style="padding-right:10px;" />
 
 ---
 
@@ -39,12 +51,11 @@
 
 
 
----
 
-## GitHub stuff
+## GitHub Activity
 
 <details>
-    <summary>:zap: Recent GitHub Activity</summary>
+    <summary>:zap: Recent Activity</summary>
 
 </details>
 
