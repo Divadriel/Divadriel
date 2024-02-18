@@ -53,7 +53,9 @@
 
 ## Latest blog posts (mostly in French)
 
-
+```
+work in progress
+```
 
 
 ## GitHub Activity
@@ -61,10 +63,18 @@
 <details>
     <summary>:zap: Recent Activity</summary>
 
+    ```
+    work in progress
+    ```
+
 </details>
 
 <details>
     <summary>:zap: Stats</summary>
+
+    ```
+    work in progress
+    ```
 </details>
 
 <!-- LINKS -->
