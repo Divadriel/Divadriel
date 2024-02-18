@@ -9,7 +9,7 @@
 - :man_student: I'm currently working on my [PhD defense][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
-<!-- goal for 2024 -->
+- :goal: Goal for 2024: Complete all my pending projects!
 - :zap: Fun fact: I'm from France :fr:!
 
 ### Ways to reach me
@@ -43,38 +43,35 @@
 <!-- later on: include links to specific projects / blog categories made with these tools, when applicable -->
 <img align="left" alt="Android Studio" width="26px" src="./img/androidstudio-color.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="./img/intellijidea-color.svg" style="padding-right:10px;" />
+<img align="left" alt="FileZilla" width="26px" src="./img/filezilla-color.svg" style="padding-right:10px;" />
 <img align="left" alt="phpMyAdmin" width="26px" src="./img/phpmyadmin-color.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./img/github-color.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="./img/gitlab-color.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity3D" width="26px" src="./img/unity-color.svg" style="padding-right:10px;" />
+<img align="left" alt="Unreal Engine" width="26px" src="./img/unrealengine-color.svg" style="padding-right:10px;" />
 
 <br>
 
 ---
 
-## Latest blog posts (mostly in French)
+## Latest blog posts (English and French mixed)
 
-```
-work in progress
-```
+`work in progress`
 
 
 ## GitHub Activity
 
 <details>
     <summary>:zap: Recent Activity</summary>
-
-    ```
-    work in progress
-    ```
-
+    
+`work in progress`
 </details>
 
 <details>
     <summary>:zap: Stats</summary>
 
-    ```
-    work in progress
-    ```
+`work in progress`
 </details>
 
 <!-- LINKS -->
