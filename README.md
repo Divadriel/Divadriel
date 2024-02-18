@@ -33,11 +33,24 @@
 ### Tools
 
 
+---
+
+## Latest blog posts (mostly in French)
 
 
 
+---
 
+## GitHub stuff
 
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
+
+</details>
+
+<details>
+    <summary>:zap: Stats</summary>
+</details>
 
 <!-- LINKS -->
 [website]: https://exploptimist.eu
