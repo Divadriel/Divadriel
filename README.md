@@ -56,12 +56,12 @@
 ---
 
 ## Latest Blog Posts (English and French mixed)
-<!-- BLOG-POST-LIST:START -->1. [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu) - 1 December 2023 
-1. [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian) - 21 November 2023 
-1. [Puzzle 1000 pièces « Mélusine, la fée bâtisseuse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-melusine-la-fee-batisseuse) - 11 November 2023 
-1. [Puzzle 1000 pièces « L’éternel voyage d’Ulysse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-leternel-voyage-dulysse) - 1 November 2023 
-1. [Puzzle 1000 pièces « Chaumes de Cordeville à Auvers-sur-Oise »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-chaumes-de-cordeville-a-auvers-sur-oise) - 21 October 2023 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+1. [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu) - 1 December 2023
+1. [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian) - 21 November 2023
+1. [Puzzle 1000 pièces « Mélusine, la fée bâtisseuse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-melusine-la-fee-batisseuse) - 11 November 2023
+1. [Puzzle 1000 pièces « L’éternel voyage d’Ulysse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-leternel-voyage-dulysse) - 1 November 2023
+1. [Puzzle 1000 pièces « Chaumes de Cordeville à Auvers-sur-Oise »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-chaumes-de-cordeville-a-auvers-sur-oise) - 21 October 2023<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
