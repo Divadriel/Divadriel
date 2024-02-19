@@ -65,7 +65,7 @@
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
     
-`work in progress`
+<!--START_SECTION:activity-->
 </details>
 
 <!-- LINKS -->
