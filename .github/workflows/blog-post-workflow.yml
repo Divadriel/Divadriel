@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://blog.exploptimist.eu/feed/"
           feed_names: "Personal Blog"
           date_format: "d mmmm yyyy"
-          template: "1. [$title]($url) - $date"
+          template: "1. [$title]($url) - $date $newline"
