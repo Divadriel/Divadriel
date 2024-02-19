@@ -59,8 +59,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-`work in progress`
-
 
 <!-- LINKS -->
 [website]: https://exploptimist.eu
