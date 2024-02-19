@@ -56,13 +56,12 @@
 ---
 
 ## Latest Blog Posts (English and French mixed)
-<!-- BLOG-POST-LIST:START -->
-- [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu)
-- [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian)
-- [Puzzle 1000 pièces « Mélusine, la fée bâtisseuse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-melusine-la-fee-batisseuse)
-- [Puzzle 1000 pièces « L’éternel voyage d’Ulysse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-leternel-voyage-dulysse)
-- [Puzzle 1000 pièces « Chaumes de Cordeville à Auvers-sur-Oise »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-chaumes-de-cordeville-a-auvers-sur-oise)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->1. [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu) - Friday 1 December 2023
+Puzzle, collection de grogu, grogu, puzzle, puzzle 1000 pièces, puzzle grogu, puzzle star wars, puzzle the mandalorian, star wars the mandalorian, the mandalorian1. [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian) - Tuesday 21 November 2023
+Puzzle, puzzle, puzzle 1000 pièces, puzzle star wars, puzzle the mandalorian, star wars the mandalorian, the mandalorian1. [Puzzle 1000 pièces « Mélusine, la fée bâtisseuse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-melusine-la-fee-batisseuse) - Saturday 11 November 2023
+Culture, Puzzle, mélusine la fée bâtisseuse, puzzle, puzzle 1000 pièces, puzzle callisto, puzzle fée, puzzle mélusine1. [Puzzle 1000 pièces « L’éternel voyage d’Ulysse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-leternel-voyage-dulysse) - Wednesday 1 November 2023
+Culture, Puzzle, callisto éditions, l'éternel voyage d'Ulysse, mythologie, mythologie grecque, puzzle, puzzle 1000 pièces, puzzle callisto, puzzle Ulysse1. [Puzzle 1000 pièces « Chaumes de Cordeville à Auvers-sur-Oise »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-chaumes-de-cordeville-a-auvers-sur-oise) - Saturday 21 October 2023
+Culture, Puzzle, Chaumes de Cordeville à Auvers-sur-Oise, puzzle, puzzle 1000 pièces, puzzle cordeville, puzzle van gogh, van gogh<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
