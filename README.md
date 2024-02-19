@@ -63,16 +63,9 @@
 ## GitHub Activity
 
 <details>
-    <summary>:zap: Recent Activity</summary>
+    <summary>:zap: Recent GitHub Activity</summary>
     
 `work in progress`
-</details>
-
-<details>
-    <summary>:zap: Stats</summary>
-
-[![Divadriel's GitHub stats](https://github-readme-stats-david-reis-projects.vercel.app/api?username=Divadriel&show_icons=true&theme=dark)](https://github.com/Divadriel/github-readme-stats)
-
 </details>
 
 <!-- LINKS -->
