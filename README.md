@@ -55,7 +55,9 @@
 
 ---
 
-## Latest blog posts (English and French mixed)
+## Latest Blog Posts (English and French mixed)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 `work in progress`
 
