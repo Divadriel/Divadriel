@@ -57,6 +57,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
+- [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu)
+- [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian)
+- [Puzzle 1000 pièces « Mélusine, la fée bâtisseuse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-melusine-la-fee-batisseuse)
+- [Puzzle 1000 pièces « L’éternel voyage d’Ulysse »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-leternel-voyage-dulysse)
+- [Puzzle 1000 pièces « Chaumes de Cordeville à Auvers-sur-Oise »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-chaumes-de-cordeville-a-auvers-sur-oise)
 <!-- BLOG-POST-LIST:END -->
 
 
