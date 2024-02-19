@@ -60,14 +60,6 @@
 `work in progress`
 
 
-## GitHub Activity
-
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
-    
-<!--START_SECTION:activity-->
-</details>
-
 <!-- LINKS -->
 [website]: https://exploptimist.eu
 [blog]: https://blog.exploptimist.eu
