@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fblog.exploptimist.eu&style=for-the-badge&logo=blogger&logoColor=%23FF5722&label=Blog)](https://blog.exploptimist.eu)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fexploptimist&up_message=A%20coffee&up_color=%23FFDD00&style=for-the-badge&logo=buymeacoffee&logoColor=%23FFDD00&label=buy%20me)](https://www.buymeacoffee.com/exploptimist)
 
-## I'm a Developer, Hiker, Doctoral Student and video game Player!
+## I'm a Developer, Hiker, PhD and video game Player!
 
 - :man_student: I'm currently working on publishing papers related to my [PhD][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
