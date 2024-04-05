@@ -6,7 +6,7 @@
 
 ## I'm a Developer, Hiker, Doctoral Student and video game Player!
 
-- :man_student: I'm currently working on my [PhD defense][research]
+- :man_student: I'm currently working on publishing papers related to my [PhD][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
 - :dart: Goal for 2024: Complete and publish all my pending projects!
