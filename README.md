@@ -9,7 +9,7 @@
 - :man_student: I'm currently working on publishing papers related to my [PhD][research]
 - :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
-- :dart: Goal for 2024: Complete and publish all my pending projects!
+- :dart: Goal for 2024: Publish a game with GDevelop or Unity!
 - :zap: Fun fact: I'm from France :fr:!
 
 ### Ways to reach me
