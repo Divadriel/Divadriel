@@ -58,10 +58,10 @@
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
 1. :compass: [My personal website, version 3.0](https://blog.exploptimist.eu/projects/my-personal-website-version-3-0) - 12 June 2024
-1. :jigsaw: [A brand new GitHub profile](https://blog.exploptimist.eu/projects/a-brand-new-github-profile) - 19 February 2024
-1. :compass: [Puzzle 1000 pièces « Brunehilde et l’anneau d’Andvari »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-brunehilde-et-lanneau-dandvari) - 28 January 2024
-1. :jigsaw: [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu) - 1 December 2023
-1. :video_game: [Puzzle 1000 pièces « Star Wars The Mandalorian »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-star-wars-the-mandalorian) - 21 November 2023<!-- BLOG-POST-LIST:END -->
+1. :jigsaw: [GDevelop BIG Game Jam #5](https://blog.exploptimist.eu/projects/gdevelop-big-game-jam-5) - 26 May 2024
+1. :compass: [A brand new GitHub profile](https://blog.exploptimist.eu/projects/a-brand-new-github-profile) - 19 February 2024
+1. :jigsaw: [Puzzle 1000 pièces « Brunehilde et l’anneau d’Andvari »](https://blog.exploptimist.eu/culture/puzzle-1000-pieces-brunehilde-et-lanneau-dandvari) - 28 January 2024
+1. :video_game: [Puzzle 1000 pièces « Collection de Grogu »](https://blog.exploptimist.eu/puzzle/puzzle-1000-pieces-collection-de-grogu) - 1 December 2023<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
