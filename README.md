@@ -57,11 +57,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
-1. :compass: [An extensive inventory of tools used during my PhD thesis](https://blog.exploptimist.eu/projects/phd-thesis/an-extensive-inventory-of-tools-used-during-my-phd-thesis) - 14 June 2024
-1. :jigsaw: [My personal website, version 3.0](https://blog.exploptimist.eu/projects/my-personal-website-version-3-0) - 12 June 2024
-1. :compass: [GameDev.tv Game Jam 2024](https://blog.exploptimist.eu/projects/gamedev-tv-game-jam-2024) - 3 June 2024
-1. :jigsaw: [GDevelop BIG Game Jam #5](https://blog.exploptimist.eu/projects/gdevelop-big-game-jam-5) - 26 May 2024
-1. :video_game: [A brand new GitHub profile](https://blog.exploptimist.eu/projects/a-brand-new-github-profile) - 19 February 2024<!-- BLOG-POST-LIST:END -->
+1. :compass: [Update to my research page](https://blog.exploptimist.eu/projects/update-to-my-research-page) - 21 June 2024
+1. :jigsaw: [An extensive inventory of tools used during my PhD thesis](https://blog.exploptimist.eu/projects/phd-thesis/an-extensive-inventory-of-tools-used-during-my-phd-thesis) - 14 June 2024
+1. :compass: [My personal website, version 3.0](https://blog.exploptimist.eu/projects/my-personal-website-version-3-0) - 12 June 2024
+1. :jigsaw: [GameDev.tv Game Jam 2024](https://blog.exploptimist.eu/projects/gamedev-tv-game-jam-2024) - 3 June 2024
+1. :video_game: [GDevelop BIG Game Jam #5](https://blog.exploptimist.eu/projects/gdevelop-big-game-jam-5) - 26 May 2024<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
