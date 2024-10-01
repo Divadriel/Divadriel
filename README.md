@@ -57,11 +57,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
+1. :compass: [T3 Evolution : lancement d’une nouvelle aventure !](https://blog.exploptimist.eu/projects/t3-evolution-lancement) - 1 October 2024
+1. :jigsaw: [Un premier pas sur Three.js](https://blog.exploptimist.eu/nature/un-premier-pas-sur-three-js) - 30 July 2024
 1. :compass: [La Route des Crêtes à VTT](https://blog.exploptimist.eu/nature/la-route-des-cretes-a-vtt) - 25 July 2024
 1. :jigsaw: [Update to my research page](https://blog.exploptimist.eu/projects/update-to-my-research-page) - 21 June 2024
-1. :compass: [An extensive inventory of tools used during my PhD thesis](https://blog.exploptimist.eu/projects/phd-thesis/an-extensive-inventory-of-tools-used-during-my-phd-thesis) - 14 June 2024
-1. :jigsaw: [My personal website, version 3.0](https://blog.exploptimist.eu/projects/my-personal-website-version-3-0) - 12 June 2024
-1. :video_game: [GameDev.tv Game Jam 2024](https://blog.exploptimist.eu/projects/gamedev-tv-game-jam-2024) - 3 June 2024<!-- BLOG-POST-LIST:END -->
+1. :video_game: [An extensive inventory of tools used during my PhD thesis](https://blog.exploptimist.eu/projects/phd-thesis/an-extensive-inventory-of-tools-used-during-my-phd-thesis) - 14 June 2024<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
