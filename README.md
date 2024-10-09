@@ -7,7 +7,7 @@
 ## I'm a Developer, Hiker, PhD and video game Player!
 
 - :man_student: I'm currently working on my first Android video game with Unity3D
-- :rocket: I'm currently learning all at once, but especially Unity3D and Unreal Engine
+- :rocket: I'm currently learning all at once, but especially Unity3D and Kotlin (Android)
 - :speech_balloon: Ask me about anything, I'm pleased to share my work!
 - :dart: Goal for 2024: Find a job near Grenoble (France) :)
 - :zap: Fun fact: I'm from France :fr:!
