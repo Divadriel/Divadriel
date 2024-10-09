@@ -35,6 +35,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="./img/mysql-color.svg" style="padding-right:10px;" />
 <img align="left" alt="PL/SQL" width="26px" src="https://www.oracle.com/a/ocom/img/pl-sql.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/kotlin/kotlin.png" style="padding-right:10px;" />
 
 <br>
 
