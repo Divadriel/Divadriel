@@ -58,7 +58,7 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
-1. :compass: [Infos Mon Appareil : open source et Google Play](https://blog.exploptimist.eu/projects/infos-mon-appareil-open-source-et-google-play) - 16 October 2024
+1. :compass: [Infos Mon Appareil : open source et Google Play](https://blog.exploptimist.eu/projects/infos-mon-appareil-open-source-google-play) - 16 October 2024
 1. :jigsaw: [T3 Evolution : lancement d’une nouvelle aventure !](https://blog.exploptimist.eu/projects/t3-evolution-lancement) - 1 October 2024
 1. :compass: [Un premier pas sur Three.js](https://blog.exploptimist.eu/nature/un-premier-pas-sur-three-js) - 30 July 2024
 1. :jigsaw: [La Route des Crêtes à VTT](https://blog.exploptimist.eu/nature/la-route-des-cretes-a-vtt) - 25 July 2024
