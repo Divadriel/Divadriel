@@ -59,10 +59,10 @@
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
 1. :compass: [La Molière et le Plateau de Sornin](https://blog.exploptimist.eu/nature/la-moliere-et-le-plateau-de-sornin) - 7 April 2025
-1. :jigsaw: [A first take at AI image generation](https://blog.exploptimist.eu/projects/a-first-take-at-ai-image-generation) - 28 November 2024
-1. :compass: [Infos Mon Appareil : open source et Google Play](https://blog.exploptimist.eu/projects/infos-mon-appareil-open-source-google-play) - 16 October 2024
-1. :jigsaw: [T3 Evolution : lancement d’une nouvelle aventure !](https://blog.exploptimist.eu/projects/t3-evolution-lancement) - 1 October 2024
-1. :video_game: [Un premier pas sur Three.js](https://blog.exploptimist.eu/nature/un-premier-pas-sur-three-js) - 30 July 2024<!-- BLOG-POST-LIST:END -->
+1. :jigsaw: [Fontaine, le début d’une nouvelle aventure](https://blog.exploptimist.eu/projects/fontaine-le-debut-dune-nouvelle-aventure) - 22 February 2025
+1. :compass: [A first take at AI image generation](https://blog.exploptimist.eu/projects/a-first-take-at-ai-image-generation) - 28 November 2024
+1. :jigsaw: [Infos Mon Appareil : open source et Google Play](https://blog.exploptimist.eu/projects/infos-mon-appareil-open-source-google-play) - 16 October 2024
+1. :video_game: [T3 Evolution : lancement d’une nouvelle aventure !](https://blog.exploptimist.eu/projects/t3-evolution-lancement) - 1 October 2024<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
