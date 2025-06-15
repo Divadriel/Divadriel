@@ -58,11 +58,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
-1. :compass: [La Molière et le Plateau de Sornin](https://blog.exploptimist.eu/nature/la-moliere-et-le-plateau-de-sornin) - 7 April 2025
-1. :jigsaw: [Le Moucherotte](https://blog.exploptimist.eu/nature/le-moucherotte) - 2 March 2025
-1. :compass: [Fontaine, le début d’une nouvelle aventure](https://blog.exploptimist.eu/projects/fontaine-le-debut-dune-nouvelle-aventure) - 22 February 2025
-1. :jigsaw: [A first take at AI image generation](https://blog.exploptimist.eu/projects/a-first-take-at-ai-image-generation) - 28 November 2024
-1. :video_game: [Infos Mon Appareil : open source et Google Play](https://blog.exploptimist.eu/projects/infos-mon-appareil-open-source-google-play) - 16 October 2024<!-- BLOG-POST-LIST:END -->
+1. :compass: [My Device and System Info: new version!](https://blog.exploptimist.eu/projects/development/my-device-and-system-info-new-version) - 15 June 2025
+1. :jigsaw: [La Molière et le Plateau de Sornin](https://blog.exploptimist.eu/nature/la-moliere-et-le-plateau-de-sornin) - 7 April 2025
+1. :compass: [Le Moucherotte](https://blog.exploptimist.eu/nature/le-moucherotte) - 2 March 2025
+1. :jigsaw: [Fontaine, le début d’une nouvelle aventure](https://blog.exploptimist.eu/projects/fontaine-le-debut-dune-nouvelle-aventure) - 22 February 2025
+1. :video_game: [A first take at AI image generation](https://blog.exploptimist.eu/projects/a-first-take-at-ai-image-generation) - 28 November 2024<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
