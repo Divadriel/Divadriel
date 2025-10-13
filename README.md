@@ -58,11 +58,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
-1. :compass: [Puzzle Fallout 25 ans &lpar;1000 pièces&rpar;](https://blog.exploptimist.eu/puzzle/puzzle-fallout-25-ans-1000-pieces) - 20 June 2025
-1. :jigsaw: [My Device and System Info: new version!](https://blog.exploptimist.eu/projects/development/my-device-and-system-info-new-version) - 15 June 2025
-1. :compass: [La Molière et le Plateau de Sornin](https://blog.exploptimist.eu/nature/la-moliere-et-le-plateau-de-sornin) - 7 April 2025
-1. :jigsaw: [Le Moucherotte](https://blog.exploptimist.eu/nature/le-moucherotte) - 2 March 2025
-1. :video_game: [Fontaine, le début d’une nouvelle aventure](https://blog.exploptimist.eu/projects/fontaine-le-debut-dune-nouvelle-aventure) - 22 February 2025<!-- BLOG-POST-LIST:END -->
+1. :compass: [Expressions régulières : mémo](https://blog.exploptimist.eu/projects/development/memo-expressions-regulieres-regex) - 12 October 2025
+1. :jigsaw: [Puzzle Fallout 25 ans &lpar;1000 pièces&rpar;](https://blog.exploptimist.eu/puzzle/puzzle-fallout-25-ans-1000-pieces) - 20 June 2025
+1. :compass: [My Device and System Info: new version!](https://blog.exploptimist.eu/projects/development/my-device-and-system-info-new-version) - 15 June 2025
+1. :jigsaw: [La Molière et le Plateau de Sornin](https://blog.exploptimist.eu/nature/la-moliere-et-le-plateau-de-sornin) - 7 April 2025
+1. :video_game: [Le Moucherotte](https://blog.exploptimist.eu/nature/le-moucherotte) - 2 March 2025<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
