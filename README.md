@@ -58,11 +58,11 @@
 
 ## Latest Blog Posts (English and French mixed)
 <!-- BLOG-POST-LIST:START -->
-1. :compass: [Journée « Sauvetage Avalanche en Autonomie »](https://blog.exploptimist.eu/nature/journee-sauvetage-avalanche-en-autonomie) - 14 December 2025
-1. :jigsaw: [Expressions régulières : mémo](https://blog.exploptimist.eu/development/memo-expressions-regulieres-regex) - 12 October 2025
-1. :compass: [Première balade à Belledonne](https://blog.exploptimist.eu/nature/premiere-balade-a-belledonne) - 21 June 2025
-1. :jigsaw: [Puzzle Fallout 25 ans &lpar;1000 pièces&rpar;](https://blog.exploptimist.eu/puzzle/puzzle-fallout-25-ans-1000-pieces) - 20 June 2025
-1. :video_game: [My Device and System Info: new version!](https://blog.exploptimist.eu/development/my-device-and-system-info-new-version) - 15 June 2025<!-- BLOG-POST-LIST:END -->
+1. :compass: [My System &amp; Device Info: version 2.4](https://blog.exploptimist.eu/projects/system-device-info-update-v2-4) - 7 February 2026
+1. :jigsaw: [Journée « Sauvetage Avalanche en Autonomie »](https://blog.exploptimist.eu/nature/journee-sauvetage-avalanche-en-autonomie) - 14 December 2025
+1. :compass: [Expressions régulières : mémo](https://blog.exploptimist.eu/development/memo-expressions-regulieres-regex) - 12 October 2025
+1. :jigsaw: [Première balade à Belledonne](https://blog.exploptimist.eu/nature/premiere-balade-a-belledonne) - 21 June 2025
+1. :video_game: [Puzzle Fallout 25 ans &lpar;1000 pièces&rpar;](https://blog.exploptimist.eu/puzzle/puzzle-fallout-25-ans-1000-pieces) - 20 June 2025<!-- BLOG-POST-LIST:END -->
 
 
 <!-- LINKS -->
