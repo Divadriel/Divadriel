@@ -61,7 +61,7 @@
 1. :compass: [Publication CHI2026 : un dernier article !](https://blog.exploptimist.eu/archives/phd-thesis/publication-chi2026-dernier-article) - 16 April 2026
 1. :jigsaw: [My System &amp; Device Info: version 2.5](https://blog.exploptimist.eu/projects/system-device-info-update-v2-5) - 25 March 2026
 1. :compass: [My System &amp; Device Info: version 2.4](https://blog.exploptimist.eu/projects/system-device-info-update-v2-4) - 7 February 2026
-1. :jigsaw: [Journée Sauvetage Avalanche en Autonomie »](https://blog.exploptimist.eu/nature/journee-sauvetage-avalanche-en-autonomie) - 14 December 2025
+1. :jigsaw: [Journée « Sauvetage Avalanche en Autonomie »](https://blog.exploptimist.eu/nature/journee-sauvetage-avalanche-en-autonomie) - 14 December 2025
 1. :video_game: [Expressions régulières : mémo](https://blog.exploptimist.eu/development/memo-expressions-regulieres-regex) - 12 October 2025<!-- BLOG-POST-LIST:END -->
 
 
